@@ -62,4 +62,4 @@
 
     - name: Display configuration status
       debug:
-        msg: "Successfully configured {{ threat_feeds | length }} threat feed(s)"
+        msg: "Successfully configured {{ threat_feeds | length }} threat feed(s)" 
